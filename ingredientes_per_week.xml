@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Ingredientes_semanales>Cantidad estimada ingredientes semanales<Ingredient>
+    <INDEX>0</INDEX>
+    <INGREDIENT Name="Garlic" />
+    <QUANTITY Units="1101" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>1</INDEX>
+    <INGREDIENT Name="Tomatoes" />
+    <QUANTITY Units="1052" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>2</INDEX>
+    <INGREDIENT Name="Red Onions" />
+    <QUANTITY Units="760" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>3</INDEX>
+    <INGREDIENT Name="Red Peppers" />
+    <QUANTITY Units="597" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>4</INDEX>
+    <INGREDIENT Name="Pepperoni" />
+    <QUANTITY Units="442" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>5</INDEX>
+    <INGREDIENT Name="Mozzarella Cheese" />
+    <QUANTITY Units="392" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>6</INDEX>
+    <INGREDIENT Name="Spinach" />
+    <QUANTITY Units="352" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>7</INDEX>
+    <INGREDIENT Name="Mushrooms" />
+    <QUANTITY Units="351" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>8</INDEX>
+    <INGREDIENT Name="Chicken" />
+    <QUANTITY Units="319" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>9</INDEX>
+    <INGREDIENT Name="Capocollo" />
+    <QUANTITY Units="301" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>10</INDEX>
+    <INGREDIENT Name="Green Olives" />
+    <QUANTITY Units="233" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>11</INDEX>
+    <INGREDIENT Name="Green Peppers" />
+    <QUANTITY Units="218" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>12</INDEX>
+    <INGREDIENT Name="Jalapeno Peppers" />
+    <QUANTITY Units="217" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>13</INDEX>
+    <INGREDIENT Name="Artichokes" />
+    <QUANTITY Units="215" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>14</INDEX>
+    <INGREDIENT Name="Feta Cheese" />
+    <QUANTITY Units="179" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>15</INDEX>
+    <INGREDIENT Name="Pineapple" />
+    <QUANTITY Units="168" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>16</INDEX>
+    <INGREDIENT Name="Bacon" />
+    <QUANTITY Units="168" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>17</INDEX>
+    <INGREDIENT Name="Asiago Cheese" />
+    <QUANTITY Units="152" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>18</INDEX>
+    <INGREDIENT Name="Kalamata Olives" />
+    <QUANTITY Units="146" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>19</INDEX>
+    <INGREDIENT Name="Corn" />
+    <QUANTITY Units="134" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>20</INDEX>
+    <INGREDIENT Name="Cilantro" />
+    <QUANTITY Units="134" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>21</INDEX>
+    <INGREDIENT Name="Chipotle Sauce" />
+    <QUANTITY Units="134" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>22</INDEX>
+    <INGREDIENT Name="Goat Cheese" />
+    <QUANTITY Units="130" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>23</INDEX>
+    <INGREDIENT Name="Fontina Cheese" />
+    <QUANTITY Units="119" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>24</INDEX>
+    <INGREDIENT Name="Pesto Sauce" />
+    <QUANTITY Units="101" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>25</INDEX>
+    <INGREDIENT Name="Calabrese Salami" />
+    <QUANTITY Units="96" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>26</INDEX>
+    <INGREDIENT Name="Italian Sausage" />
+    <QUANTITY Units="93" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>27</INDEX>
+    <INGREDIENT Name="Chorizo Sausage" />
+    <QUANTITY Units="93" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>28</INDEX>
+    <INGREDIENT Name="Thai Sweet Chilli Sauce" />
+    <QUANTITY Units="90" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>29</INDEX>
+    <INGREDIENT Name="Barbecued Chicken" />
+    <QUANTITY Units="88" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>30</INDEX>
+    <INGREDIENT Name="Barbecue Sauce" />
+    <QUANTITY Units="88" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>31</INDEX>
+    <INGREDIENT Name="Zucchini" />
+    <QUANTITY Units="84" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>32</INDEX>
+    <INGREDIENT Name="Artichoke" />
+    <QUANTITY Units="83" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>33</INDEX>
+    <INGREDIENT Name="Gouda Cheese" />
+    <QUANTITY Units="83" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>34</INDEX>
+    <INGREDIENT Name="Ricotta Cheese" />
+    <QUANTITY Units="83" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>35</INDEX>
+    <INGREDIENT Name="Gorgonzola Piccante Cheese" />
+    <QUANTITY Units="83" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>36</INDEX>
+    <INGREDIENT Name="Parmigiano Reggiano Cheese" />
+    <QUANTITY Units="83" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>37</INDEX>
+    <INGREDIENT Name="Sliced Ham" />
+    <QUANTITY Units="78" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>38</INDEX>
+    <INGREDIENT Name="Genoa Salami" />
+    <QUANTITY Units="75" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>39</INDEX>
+    <INGREDIENT Name="Peperoncini verdi" />
+    <QUANTITY Units="75" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>40</INDEX>
+    <INGREDIENT Name="Beef Chuck Roast" />
+    <QUANTITY Units="71" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>41</INDEX>
+    <INGREDIENT Name="Provolone Cheese" />
+    <QUANTITY Units="69" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>42</INDEX>
+    <INGREDIENT Name="Smoked Gouda Cheese" />
+    <QUANTITY Units="69" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>43</INDEX>
+    <INGREDIENT Name="Romano Cheese" />
+    <QUANTITY Units="69" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>44</INDEX>
+    <INGREDIENT Name="Blue Cheese" />
+    <QUANTITY Units="69" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>45</INDEX>
+    <INGREDIENT Name="Sun-dried Tomatoes" />
+    <QUANTITY Units="65" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>46</INDEX>
+    <INGREDIENT Name="Coarse Sicilian Salami" />
+    <QUANTITY Units="62" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>47</INDEX>
+    <INGREDIENT Name="Luganega Sausage" />
+    <QUANTITY Units="62" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>48</INDEX>
+    <INGREDIENT Name="Onions" />
+    <QUANTITY Units="62" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>49</INDEX>
+    <INGREDIENT Name="Oregano" />
+    <QUANTITY Units="55" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>50</INDEX>
+    <INGREDIENT Name="Anchovies" />
+    <QUANTITY Units="49" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>51</INDEX>
+    <INGREDIENT Name="Prosciutto di San Daniele" />
+    <QUANTITY Units="48" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>52</INDEX>
+    <INGREDIENT Name="Arugula" />
+    <QUANTITY Units="48" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>53</INDEX>
+    <INGREDIENT Name="Nduja Salami" />
+    <QUANTITY Units="37" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>54</INDEX>
+    <INGREDIENT Name="Pancetta" />
+    <QUANTITY Units="37" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>55</INDEX>
+    <INGREDIENT Name="Friggitello Peppers" />
+    <QUANTITY Units="37" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>56</INDEX>
+    <INGREDIENT Name="Soppressata Salami" />
+    <QUANTITY Units="36" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>57</INDEX>
+    <INGREDIENT Name="Alfredo Sauce" />
+    <QUANTITY Units="35" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>58</INDEX>
+    <INGREDIENT Name="Eggplant" />
+    <QUANTITY Units="33" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>59</INDEX>
+    <INGREDIENT Name="Plum Tomatoes" />
+    <QUANTITY Units="33" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>60</INDEX>
+    <INGREDIENT Name="Brie Carre Cheese" />
+    <QUANTITY Units="8" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>61</INDEX>
+    <INGREDIENT Name="Prosciutto" />
+    <QUANTITY Units="8" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>62</INDEX>
+    <INGREDIENT Name="Caramelized Onions" />
+    <QUANTITY Units="8" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>63</INDEX>
+    <INGREDIENT Name="Pears" />
+    <QUANTITY Units="8" />
+  </Ingredient>
+  <Ingredient>
+    <INDEX>64</INDEX>
+    <INGREDIENT Name="Thyme" />
+    <QUANTITY Units="8" />
+  </Ingredient>
+</Ingredientes_semanales>

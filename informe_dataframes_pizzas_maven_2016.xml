@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<XML_MAVEN_PIZZAS_2016>Informe de los datos<DATASET nombre_dataset="Pizza_types">
+    <Null total_of_Nulls="0" />
+    <NaN total_of_Nans="0" />
+    <columna column_name="pizza_type_id">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="name">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="category">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="ingredients">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+  </DATASET>
+  <DATASET nombre_dataset="Pizzas">
+    <Null total_of_Nulls="0" />
+    <NaN total_of_Nans="0" />
+    <columna column_name="pizza_id">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="pizza_type_id">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="size">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="price">
+      <Tipologia tipologia_columna="float64" />
+    </columna>
+  </DATASET>
+  <DATASET nombre_dataset="Order_details">
+    <Null total_of_Nulls="10399" />
+    <NaN total_of_Nans="10399" />
+    <columna column_name="order_details_id">
+      <Tipologia tipologia_columna="int64" />
+    </columna>
+    <columna column_name="order_id">
+      <Tipologia tipologia_columna="int64" />
+    </columna>
+    <columna column_name="pizza_id">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="quantity">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+  </DATASET>
+  <DATASET nombre_dataset="Orders">
+    <Null total_of_Nulls="4391" />
+    <NaN total_of_Nans="4391" />
+    <columna column_name="order_id">
+      <Tipologia tipologia_columna="int64" />
+    </columna>
+    <columna column_name="date">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+    <columna column_name="time">
+      <Tipologia tipologia_columna="object" />
+    </columna>
+  </DATASET>
+</XML_MAVEN_PIZZAS_2016>
